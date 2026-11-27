@@ -4,4 +4,4 @@ workingdays =int(input("enter the number of days worked"))
 
 totalwage = wage * workingdays
 
-print("total wage:", totalwage)
+print("total wage:", totalwage+200)
